@@ -2,6 +2,10 @@
 
 This page summarizes the AES hardware benchmark results.
 
+## Result Versions
+
+- [AES Core Mapping V1](aes_v1.md)
+
 ## Implemented Key Sizes
 
 | Variant | Status |
