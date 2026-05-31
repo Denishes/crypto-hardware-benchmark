@@ -6,7 +6,7 @@ This repository documents reproducible FPGA and ASIC implementations of cryptogr
 
 ### Algorithms
 
-- [AES](../algorithms/aes/)
+- [AES](aes.md)
 - [ChaCha20](../algorithms/chacha20/)
 - [Ascon](../algorithms/ascon/)
 - [JAMBU](../algorithms/jambu/)
