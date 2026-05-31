@@ -1,0 +1,1 @@
+result_id,date,version,algorithm,framework,operation,key_size,implementation,architecture,sbox,target,platform,technology,node_nm,area_um2,area_mm2,gate_equiv,luts,ffs,bram,dsp,fmax_mhz,latency_cycles,cycles_per_block,bits_per_cycle,throughput_gbps,area_efficiency,toolchain,notes
