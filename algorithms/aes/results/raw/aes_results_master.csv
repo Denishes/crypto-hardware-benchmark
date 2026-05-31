@@ -1,0 +1,7 @@
+algorithm,key_size,implementation,target,node_nm,area_mm2,fmax_mhz,throughput_gbps,luts,latency_cycles,notes
+AES,128,Pipeline GF,ASIC,45,0.052,671,86,,10,Paper version
+AES,128,Pipeline,ASIC,45,0.109,881,113,,10,Paper version
+AES,128,Iterative GF,ASIC,45,0.016,309,4.0,,10,Paper version
+AES,128,Iterative,ASIC,45,0.033,293,3.8,,10,Paper version
+AES,128,P Unrolled GF,ASIC,45,0.022,220,5.6,,5,Paper version
+AES,128,P Unrolled,ASIC,45,0.040,284,7.3,,5,Paper version
