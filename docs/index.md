@@ -1,6 +1,13 @@
 # Cryptographic Hardware Benchmark Suite
 
-This repository documents reproducible FPGA and ASIC implementations of cryptographic hardware architectures.
+## Quick Links
+
+- [Navigation](navigation.md)
+- [AES Results](aes.md)
+
+## Repository Purpose
+
+This repository documents reproducible FPGA and ASIC implementations of cryptographic architectures and security frameworks.
 
 ## Main Sections
 
