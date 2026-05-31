@@ -1,1 +1,2 @@
 result_id,date,version,algorithm,framework,operation,key_size,implementation,architecture,sbox,target,platform,technology,node_nm,area_um2,area_mm2,gate_equiv,luts,ffs,bram,dsp,fmax_mhz,latency_cycles,cycles_per_block,bits_per_cycle,throughput_gbps,area_efficiency,toolchain,notes
+aes128-pipeline-gf-asic45-v1,2026-05-31,v1,AES,,encryption,128,Pipeline GF,fully_pipelined,GF,ASIC,,Nangate45,45,52750,0.052,, , , , ,671,10,1,128,86,1652,Yosys+OpenSTA,First cleaned AES-128 GF pipeline ASIC result
