@@ -61,8 +61,3 @@ AES and non-standard extended Rijndael (ER) hardware results.
 | Partially unrolled | 0.185 | 271 | 6.9 | 19 | 38 |
 | Partially unrolled GF | 0.092 | 188 | 4.8 | 19 | 52 |
 
-## Notes
-
-- Configuration sizes refer to key sizes: 128, 192, and 256 bits for AES; 512 and 1024 bits for the non-standard ER extensions.
-- Throughput and area efficiency are reproduced as reported, without recalculation.
-- GF retains the design suffix used in the source results.
