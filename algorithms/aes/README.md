@@ -7,8 +7,8 @@ This section contains FPGA and ASIC implementations of AES.
 - AES-128
 - AES-192
 - AES-256
-- AES-512
-- AES-1024
+- ER-512
+- ER-1024
 
 ## Supported Architectures
 
