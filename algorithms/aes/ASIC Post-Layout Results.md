@@ -60,10 +60,3 @@ AES and non-standard extended Rijndael (ER) hardware results.
 | Iterative GF | 0.039944 | 423 | 38 | 5.4 | 3.79 | 40 |
 | Partially unrolled | 0.283276 | 271 | 19 | 6.9 | 29.80 | 34 |
 | Partially unrolled GF | 0.186642 | 188 | 19 | 4.8 | 35.30 | 39 |
-
-## Notes
-
-- Configuration sizes reproduce the source grouping. The original post-layout column is labeled “Datapath Width”; its relationship to key size has not been confirmed.
-- Clock values are targets (Ftarget), as labeled in the source.
-- Throughput is reproduced as reported, without recalculation.
-- GF retains the design suffix used in the source results.
