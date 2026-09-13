@@ -7,8 +7,8 @@ This section contains FPGA and ASIC implementations of AES.
 - AES-128
 - AES-192
 - AES-256
-- ER-512
-- ER-1024
+- ER-512  (AES Extended Rijndael Configurations with 22 rounds)
+- ER-1024 (AES Extended Rijndael Configurations with 38 rounds)
 
 ## Supported Architectures
 
@@ -27,5 +27,4 @@ This section contains FPGA and ASIC implementations of AES.
 
 ### FPGA
 - ECP5
-- ZCU102
 - Future devices
